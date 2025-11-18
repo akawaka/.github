@@ -13,13 +13,3 @@ accompagnons à chaque étape de votre projet pour vous garantir une solution qu
 demain.
 
  [Contactez-nous](mailto:hello@akawaka.fr)
-
----
-
-# Guides de l'employé
-
-> [!NOTE]
-> Ces différents guides ne concernent que les employés de Akawaka. Ils ne sont donc pas accessibles publiquement.
-
-- [L'IA chez Akawaka](https://github.com/akawaka/ai) : différents guides, bonnes pratiques et ressources pour bien utiliser l'IA 
-dans le cadre de vos projets.
